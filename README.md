@@ -3,7 +3,7 @@
 #### Quickstart
 [Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1)
 
-#### SABL is Sequentially Adaptive Bayesian Learning
+#### About SABL: Sequentially Adaptive Bayesian Learning
 
 ## The aim of SABL-Projects
 The aim of this site is simple:
