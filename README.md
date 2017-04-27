@@ -2,6 +2,7 @@
 #### GPU Posterior Simulation - Bayesian Simulated Annealing - Quantum Annealing
 
 #### Quickstart
+[Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1)
 
 #### SABL: Sequentially Adaptive Bayesian Learning
 
