@@ -14,3 +14,4 @@ The aim of this site is simple:
 ##### 1. Simple Generic SABL project
 
 ##### 2. The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
+[Detailed output](/run.html)
