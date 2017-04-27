@@ -9,6 +9,7 @@ Installation instructions are contained in the archive .zip that you downloaded 
 A more streamlined code base with recent bug-fixes is now on GitHub.  See here for details.
 
 #### About SABL: Sequentially Adaptive Bayesian Learning
+SABL was the output resulting from Australian Research Council Grant DP130103356 (Massively parallel algorithms for Bayesian inference and decision making).  Details of the research project and the original team are [here](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-research).
 
 ## The aim of SABL-Projects
 The aim of this site is simple:
