@@ -28,9 +28,15 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 - [x] Generating summary tables and plots
 - [x] Trading off execution time in return for lower memory usage
 
-##### * Simple generic SABL project
+##### Simple generic SABL project
+###### Concepts covered
 
-##### * The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
+###### Download
+
+###### Installation
+Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation.
+
+##### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
 [View output](/run.html)
 ###### Concepts covered
 
@@ -38,3 +44,9 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 
 ###### Installation
 Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation.
+
+## Roadmap to Quantum Computing
+An early implementation of quantum computing is underway thanks to [D-Wave](http://www.dwavesys.com).  Where SABL performs unconstrained optimisation on GPUs for real-valued problems, D-Wave performs unconstrained optimisation on qubit hardware for (quadratic) integer-valued problems.  Future SABL projects will look to bridge these two through the [qbsolv software](https://github.com/dwavesystems/qbsolv) released by D-Wave.
+
+## Contact Us
+Please submit your thoughts and suggestions as Issues at this GitHub site.
