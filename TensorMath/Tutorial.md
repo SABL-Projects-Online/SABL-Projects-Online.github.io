@@ -5,5 +5,5 @@ General expression:
 
 Symbol | Meaning
 ---- | ------------------------
-D_n  | dimensions, indexed by n 
+D<sub>n</sub>  | dimensions, indexed by n 
 
