@@ -10,3 +10,17 @@ Symbol | Meaning
 
 Explanation:
 The expression above allows any dimension of the two arrays to be a singleton (ie range 1:1).  In such cases, the array(s) with the singleton dimension has its value *broadcast* to all elements along that dimension.  Then the array *T* can be constructed with consistent dimensions from the result of an element-wise operation.  *T* may subsequently be summed along a given dimension (a reduction).
+
+#### Scalar times Matrix 
+
+#### Vector times Vector Outer Product
+
+#### Matrix times Vector
+
+#### Matrix times Matrix
+
+#### Matrix Matrix Kron Product
+
+#### Tensor times Vector
+
+#### Tensor Product
