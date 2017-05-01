@@ -18,7 +18,7 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
 Common form | High dimensional form
 ----------- | ---------------------
 ![Tensor](TensorMath2.svg) | ![Tensor](TensorMath3.svg)
-Matlab code | Matlab code
+Example Matlab code | Example Matlab code
 ```beta = 0.6; X = rand(8,10); T = beta*X;``` | ```beta = 0.6; X = rand(1,1,8,1,10); T = beta*X;```
 
 #### Vector times Vector Outer Product
