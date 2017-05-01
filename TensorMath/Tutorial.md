@@ -19,6 +19,7 @@ Common form | High dimensional form
 ----------- | ---------------------
 ![Tensor](TensorMath2.svg) | ![Tensor](TensorMath3.svg)
 Matlab code | Matlab code
+``` beta = 1; X = rand(8,10); t = beta*X; ``` | ``` beta = 1; X = rand(1,1,8,1,10); T = beta*X; ```
 
 #### Vector times Vector Outer Product
 
