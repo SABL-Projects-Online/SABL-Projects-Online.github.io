@@ -14,8 +14,10 @@ The expression above allows any dimension of the two arrays to be a singleton (i
 For brevity, 5 dimensions are explicitly described, even though the number of dimensions can be arbitrarily large (higher dimensions that have not been explicitly described are assumed to be 1:1 ie singletons).
 
 #### Scalar times Matrix 
+
 Common form | High dimensional form
-![Tensor](TensorMath2.svg) |
+----------- | ---------------------
+![Tensor](TensorMath2.svg) | ![Tensor](tmm.svg)
 Matlab code | Matlab code
 
 #### Vector times Vector Outer Product
