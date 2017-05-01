@@ -30,6 +30,11 @@ Example Matlab code | Example Matlab code
 
 #### Matrix times Vector
 
+Common form | High dimensional form
+----------- | ---------------------
+![Tensor](TensorMath6.svg) | ![Tensor](TensorMath7.svg)
+Example Matlab code | Example Matlab code
+
 #### Matrix times Matrix
 
 #### Matrix Matrix Kron Product
