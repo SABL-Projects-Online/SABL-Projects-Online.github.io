@@ -21,7 +21,9 @@ Common form | High dimensional form
 Matlab code | Matlab code
 ```matlab
 beta = 1; X = rand(8,10); T = beta*X;
-``` | ```matlab
+```
+|
+```matlab
 beta = 1; X = rand(1,1,8,1,10); T = beta*X;
 ```
 
