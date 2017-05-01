@@ -17,7 +17,7 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
 
 Common form | High dimensional form
 ----------- | ---------------------
-![Tensor](TensorMath2.svg) | ![Tensor](tmm.svg)
+![Tensor](TensorMath2.svg) | ![Tensor](TensorMath3.svg)
 Matlab code | Matlab code
 
 #### Vector times Vector Outer Product
