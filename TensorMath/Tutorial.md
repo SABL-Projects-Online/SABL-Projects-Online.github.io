@@ -15,6 +15,7 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
 
 #### Scalar times Matrix 
 
+![Tensor](TensorMath2.svg)
 #### Vector times Vector Outer Product
 
 #### Matrix times Vector
