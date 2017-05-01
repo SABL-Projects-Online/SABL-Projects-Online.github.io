@@ -42,8 +42,18 @@ Common form | High dimensional form
 ![Tensor](TensorMath8.svg) | ![Tensor](TensorMath9.svg)
 Example Matlab code | Example Matlab code
 
-#### Matrix Matrix Kron Product
-
 #### Tensor times Vector
 
+Common form | High dimensional form
+----------- | ---------------------
+NA | ![Tensor](TensorMath10.svg)
+Example Matlab code | Example Matlab code
+
+
 #### Tensor Product
+
+Common form | High dimensional form
+----------- | ---------------------
+NA | ![Tensor](TensorMath11.svg)
+Example Matlab code | Example Matlab code
+
