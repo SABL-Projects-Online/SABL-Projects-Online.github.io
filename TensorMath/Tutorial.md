@@ -36,7 +36,7 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
  | |
 **Tensor times Vector** | |
 *Expression* | NA | ![Tensor](TensorMath10.svg)
-*Example Matlab code* | |
+*Example Matlab code* | | ```beta = rand(18,14,12,10,1); X = rand(1,14,1,10,1); T = bsxfun(@times,beta,X); T = sum(sum(T,4),2);```
  | |
 **Tensor Product** | |
 *Expression* | NA | ![Tensor](TensorMath11.svg)
