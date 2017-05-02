@@ -49,4 +49,4 @@ Expand the .zip contents to a new subdirectory under the "Projects" directory of
 An early implementation of quantum computing is underway thanks to [D-Wave](http://www.dwavesys.com).  Where SABL performs unconstrained optimisation on GPUs for real-valued problems, D-Wave performs unconstrained optimisation on qubit hardware for (quadratic) integer-valued problems.  Future SABL projects will look to bridge these two through the [qbsolv software](https://github.com/dwavesystems/qbsolv) released by D-Wave.
 
 ## Contact Us
-Please submit your thoughts and suggestions as Issues at this GitHub site.
+Please submit your thoughts and suggestions as [Issues](https://github.com/SABL-Projects-Online/SABL-Projects-Online.github.io/issues) at this GitHub site.
