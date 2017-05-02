@@ -18,13 +18,14 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
 
 #### Scalar times Matrix 
 
-Scalar time Matrix | Common form | High dimensional form
+*    | Common form | High dimensional form
 ------------------ | ----------- | ---------------------
-Expression | ![Tensor](TensorMath2.svg) | ![Tensor](TensorMath3.svg)
-Example Matlab code | ```beta = 0.6; X = rand(8,10); T = beta*X;``` | ```beta = 0.6; X = rand(1,1,8,1,10); T = beta*X;```
-Vector times Vector Outer Product |  | 
-Expression | ![Tensor](TensorMath4.svg) | ![Tensor](TensorMath5.svg)
-Example Matlab code |  |
+**Scalar time Matrix** | |
+*Expression* | ![Tensor](TensorMath2.svg) | ![Tensor](TensorMath3.svg)
+*Example Matlab code* | ```beta = 0.6; X = rand(8,10); T = beta*X;``` | ```beta = 0.6; X = rand(1,1,8,1,10); T = beta*X;```
+**Vector times Vector Outer Product** |  | 
+*Expression* | ![Tensor](TensorMath4.svg) | ![Tensor](TensorMath5.svg)
+*Example Matlab code* |  |
 
 #### Matrix times Vector
 
