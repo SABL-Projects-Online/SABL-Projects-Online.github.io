@@ -24,7 +24,7 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
  | |
 **Vector times Vector Outer Product** |  | 
 *Expression* | ![Tensor](TensorMath4.svg) | ![Tensor](TensorMath5.svg)
-*Example Matlab code* | ```beta = rand(8,1); X = rand(1,4); T = beta*X;```  | ```beta = rand(1,1,1,8,1); X = rand(1,4,1,1,1); T = bsxfun(@times,beta,X);```
+*Example Matlab code* | ```beta = rand(18,1); X = rand(1,14); T = beta*X;```  | ```beta = rand(1,1,1,18,1); X = rand(1,14,1,1,1); T = bsxfun(@times,beta,X);```
  | |
 **Matrix times Vector** | |
 *Expression* | ![Tensor](TensorMath6.svg) | ![Tensor](TensorMath7.svg)
