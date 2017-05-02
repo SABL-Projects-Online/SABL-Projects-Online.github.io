@@ -28,13 +28,12 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 - [x] Generating summary tables and plots
 - [x] Trading off execution time in return for lower memory usage
 
-##### Simple generic SABL project
-###### Concepts covered
+## Projects
+### Simple generic SABL project
+Concepts covered | Download | Installation
+---------------- | -------- | ------------
+All items listed above | | Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation.
 
-###### Download
-
-###### Installation
-Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation.
 
 ### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
 [View output](/20170420 - Improved documentation after code cleanup/run.html)
