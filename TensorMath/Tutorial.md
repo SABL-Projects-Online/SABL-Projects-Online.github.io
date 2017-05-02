@@ -1,3 +1,6 @@
+###### *GPU Posterior Simulation - Bayesian Simulated Annealing - Quantum Annealing*
+# SABL-Projects: Common matrix operations in tensor form
+
 #### General expression
 
 ![Tensor](tensormath.svg)
