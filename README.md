@@ -24,7 +24,7 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 - [x] Leaving a randomly selected held-out sample from the estimation
 - [x] Applying adjustments to data
 - [x] Setting up simple prior distributions of model parameters
-- [x] Calculating log-likelihood using n-dimensional (tensor) arrays and arithmetic
+- [x] Calculating log-likelihood using [n-dimensional (tensor) arrays and arithmetic](/TensorMath/Tutorial)
 - [x] Generating summary tables and plots
 - [x] Trading off execution time in return for lower memory usage
 
