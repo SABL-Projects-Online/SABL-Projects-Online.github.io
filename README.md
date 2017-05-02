@@ -37,7 +37,7 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation.
 
 ##### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
-[View output](/run.html)
+[View output](20170420 - Improved documentation after code cleanup/run.html)
 ###### Concepts covered
 
 ###### Download
