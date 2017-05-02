@@ -39,7 +39,7 @@ Expand the .zip contents to a new subdirectory under the "Projects" directory of
 ##### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
 [View output](/20170420 - Improved documentation after code cleanup/run.html)
 ###### Concepts covered
-
+All items listed above
 ###### Download
 
 ###### Installation
