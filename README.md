@@ -31,13 +31,13 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 ## Projects
 ### Simple generic SABL project
 
-Concepts covered | 
----------------- |
-- [x] Setting up the Matlab global variables required by SABL  |
-- [x] Setting up simple prior distributions of model parameters |
+| Concepts covered | 
+| ---------------- |
+| - [x] Setting up the Matlab global variables required by SABL  |
+| - [x] Setting up simple prior distributions of model parameters |
 
-Download |
--------- |
+| Download |
+| -------- |
  
 Installation |
 ------------ |
