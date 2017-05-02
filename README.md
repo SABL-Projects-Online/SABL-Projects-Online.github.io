@@ -30,6 +30,7 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 
 ## Projects
 ### Simple generic SABL project
+
 Concepts covered | Download | Installation
 ---------------- | -------- | ------------
 All items listed above | | Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation.
