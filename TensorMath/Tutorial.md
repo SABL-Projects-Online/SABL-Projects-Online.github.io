@@ -42,3 +42,4 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
 *Expression* | NA | ![Tensor](TensorMath11.svg)
 *Example Matlab code* | |
 
+[Return to Main Page](/)
