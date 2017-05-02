@@ -26,10 +26,10 @@ Example Matlab code | Example Matlab code
 
 #### Vector times Vector Outer Product
 
-Common form | High dimensional form
------------ | ---------------------
-![Tensor](TensorMath4.svg) | ![Tensor](TensorMath5.svg)
-Example Matlab code | Example Matlab code
+Vector times Vector Outer Product | Common form | High dimensional form
+--------------------------------- | ----------- | ---------------------
+ | ![Tensor](TensorMath4.svg) | ![Tensor](TensorMath5.svg)
+Example Matlab code |  |
 
 #### Matrix times Vector
 
