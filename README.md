@@ -33,15 +33,8 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 
 Concepts covered | 
 ---------------- |
-- [x] Setting up the Matlab global variables required by SABL
-- [ ] Importing .CSV data
-- [x] Setting locations to store results from SABL, including saving the posterior sampling distribution of model parameters to .CSV
-- [ ] Leaving a randomly selected held-out sample from the estimation
-- [ ] Applying adjustments to data
-- [x] Setting up simple prior distributions of model parameters
-- [ ] Calculating log-likelihood using [n-dimensional (tensor) arrays and arithmetic](/TensorMath/Tutorial)
-- [ ] Generating summary tables and plots
-- [ ] Trading off execution time in return for lower memory usage |
+- [x] Setting up the Matlab global variables required by SABL  |
+- [x] Setting up simple prior distributions of model parameters |
 
 Download |
 -------- |
