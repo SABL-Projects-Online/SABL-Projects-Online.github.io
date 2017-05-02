@@ -24,13 +24,9 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
 **Vector times Vector Outer Product** |  | 
 *Expression* | ![Tensor](TensorMath4.svg) | ![Tensor](TensorMath5.svg)
 *Example Matlab code* |  |
-
-#### Matrix times Vector
-
-Common form | High dimensional form
------------ | ---------------------
-![Tensor](TensorMath6.svg) | ![Tensor](TensorMath7.svg)
-Example Matlab code | Example Matlab code
+**Matrix times Vector** | |
+*Expression* | ![Tensor](TensorMath6.svg) | ![Tensor](TensorMath7.svg)
+*Example Matlab code*  | |
 
 #### Matrix times Matrix
 
