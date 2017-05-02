@@ -41,7 +41,7 @@ Link | Expand the .zip contents to a new subdirectory under the "Projects" direc
 ### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
 [View output](/20170420 - Improved documentation after code cleanup/run.html)
 #### Concepts covered
-All items listed in [#the-aim-of-sabl-projects]
+All items listed in [above](#the-aim-of-sabl-projects)
 
 Download | Installation |
 -------- | ------------ |
