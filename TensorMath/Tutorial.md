@@ -28,11 +28,11 @@ For brevity, 5 dimensions are explicitly described, even though the number of di
  | |
 **Matrix times Vector** | |
 *Expression* | ![Tensor](TensorMath6.svg) | ![Tensor](TensorMath7.svg)
-*Example Matlab code*  | ```beta = rand(14,16); X = rand(16,1); T =beta*X;``` | ```beta = rand(1,1,1,16,1); X = rand(1,1,1,16,14); T = bsxfun(@times,beta,X); sum(T,4);```
+*Example Matlab code*  | ```beta = rand(14,16); X = rand(16,1); T = beta*X;``` | ```beta = rand(1,1,1,16,1); X = rand(1,1,1,16,14); T = bsxfun(@times,beta,X); T = sum(T,4);```
  | |
 **Matrix times Matrix** | |
 *Expression* | ![Tensor](TensorMath8.svg) | ![Tensor](TensorMath9.svg)
-*Example Matlab code* | |
+*Example Matlab code* | ```beta = rand(12,16); X = rand(16,14); T = beta*X;``` | ```beta = rand(1,1,12,16,1); X = rand(1,1,1,16,14); T = bsxfun(@times,beta,X); T = sum(T,4);```
  | |
 **Tensor times Vector** | |
 *Expression* | NA | ![Tensor](TensorMath10.svg)
