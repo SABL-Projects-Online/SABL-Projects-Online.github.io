@@ -38,12 +38,10 @@ Expand the .zip contents to a new subdirectory under the "Projects" directory of
 
 ##### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
 [View output](/20170420 - Improved documentation after code cleanup/run.html)
-###### Concepts covered
-All items listed above
-###### Download
+Concepts covered | Download | Installation
+---------------- | -------- | ------------
+All items listed above | | Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation.
 
-###### Installation
-Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation.
 
 ## Roadmap to Quantum Computing
 An early implementation of quantum computing is underway thanks to [D-Wave](http://www.dwavesys.com).  Where SABL performs unconstrained optimisation on GPUs for real-valued problems, D-Wave performs unconstrained optimisation on qubit hardware for (quadratic) integer-valued problems.  Future SABL projects will look to bridge these two through the [qbsolv software](https://github.com/dwavesystems/qbsolv) released by D-Wave.
