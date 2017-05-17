@@ -6,7 +6,7 @@ Prerequisites:
 * Matlab Toolboxes: Statistics, Parallel Computing 
 * Nvidia CUDA capable GPU (multiple GPUs are supported)
 
-1. For the SABL project you want to use, download the .zip archive, and extract the directory contained inside it.  
+1. Choose a SABL-Project - download the .zip archive, and extract the directory contained inside it.  
 1. Switch to the directory that was just extracted and start Matlab
 1. Execute: _run.m_
 
