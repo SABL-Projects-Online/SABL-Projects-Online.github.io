@@ -39,7 +39,7 @@ Download | Installation |
 Link | Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation. |
 
 ### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
-[View output](/20170420 - Improved documentation after code cleanup/run.html)
+[View output](/OutputVideo2/run.html)
 #### Concepts covered
 All items listed [above](#the-aim-of-sabl-projects)
 
