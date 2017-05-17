@@ -1,15 +1,19 @@
 ###### *GPU Posterior Simulation - Bayesian Simulated Annealing - Quantum Annealing*
 # SABL-Projects
 #### Quickstart
-[Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1)
+Prerequisites:
+* Matlab 2015a or later
+* Matlab Toolboxes: Statistics and Machine Learning, Parallel Computing 
+* Nvidia CUDA capable GPU (multiple GPUs are supported)
 
-Installation instructions are contained in the archive .zip that you downloaded at the above link.
+1. [Choose a SABL-Project](#projects) - download the .zip archive, and extract the directory contained inside it.  
+1. Switch to the directory that was just extracted and start Matlab
+1. Execute: _run.m_
 
-#### GitHub
-A more streamlined code base with recent bug-fixes is now on GitHub.  See here for details.
+#### Full installation
+[Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1) (Installation instructions are contained in the archive .zip file.)
 
-#### About SABL: Sequentially Adaptive Bayesian Learning
-SABL was the output resulting from Australian Research Council Grant DP130103356 (Massively parallel algorithms for Bayesian inference and decision making).  Details of the research project and the original team are [here](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-research).
+This is the original release of SABL (Sequentially Adaptive Bayesian Learning) resulting from Australian Research Council Grant DP130103356 (Massively parallel algorithms for Bayesian inference and decision making).  Details of the research project and the original team are [here](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-research).
 
 ## The aim of SABL-Projects
 The aim of this site is simple:
@@ -24,7 +28,7 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 - [x] Leaving a randomly selected held-out sample from the estimation
 - [x] Applying adjustments to data
 - [x] Setting up simple prior distributions of model parameters
-- [x] Calculating log-likelihood using [n-dimensional (tensor) arrays and arithmetic](/TensorMath/Tutorial)
+- [x] Calculating log-likelihood using [n-dimensional (tensor) arrays and arithmetic](https://sabl-projects-online.github.io/TensorMath/Tutorial)
 - [x] Generating summary tables and plots
 - [x] Trading off execution time in return for lower memory usage
 
@@ -36,10 +40,10 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 
 Download | Installation |
 -------- | ------------ |
-Link | Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation. |
+[Link](https://github.com/SABL-Projects-Online/SABL-Projects-Online.github.io/blob/master/SimpleGeneric/Releases) | Expand the .zip, then from the extracted directory, start Matlab and execute _run.m_  |
 
 ### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
-[View output](/20170420 - Improved documentation after code cleanup/run.html)
+[View output](/OutputVideo2/run.html)
 #### Concepts covered
 All items listed [above](#the-aim-of-sabl-projects)
 
