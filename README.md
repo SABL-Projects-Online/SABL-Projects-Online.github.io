@@ -3,13 +3,15 @@
 #### Quickstart
 Prerequisites:
 * Matlab 2015a or later
-* Nvidia CUDA capable GPU
+* Matlab Toolboxes: Statistics, Parallel Computing 
+* Nvidia CUDA capable GPU (multiple GPUs are supported)
 
-Download the .zip archive, and extract it.  
-Switch to the project directory that was just extracted, then start Matlab and execute: _run.m_
+1. For the SABL project you want to use, download the .zip archive, and extract the directory contained inside it.  
+1. Switch to the directory that was just extracted and start Matlab
+1. Execute: _run.m_
 
 #### Full installation
-[Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1) Installation instructions are contained in the archive .zip file.
+[Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1) (Installation instructions are contained in the archive .zip file.)
 
 This is the original release of SABL (Sequentially Adaptive Bayesian Learning) resulting from Australian Research Council Grant DP130103356 (Massively parallel algorithms for Bayesian inference and decision making).  Details of the research project and the original team are [here](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-research).
 
