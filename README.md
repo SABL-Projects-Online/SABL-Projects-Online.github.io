@@ -1,15 +1,15 @@
 ###### *GPU Posterior Simulation - Bayesian Simulated Annealing - Quantum Annealing*
 # SABL-Projects
 #### Quickstart
-[Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1)
+Prerequisites:
+* Matlab 2015a or later
+* Nvidia CUDA capable GPU
+Download the .zip archive, and extract it.  Switch to the project directory that was just extracted, then start Matlab and execute: run.m
 
-Installation instructions are contained in the archive .zip that you downloaded at the above link.
+#### Full installation
+[Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1) Installation instructions are contained in the archive .zip file.
 
-#### GitHub
-A more streamlined code base with recent bug-fixes is now on GitHub.  See here for details.
-
-#### About SABL: Sequentially Adaptive Bayesian Learning
-SABL was the output resulting from Australian Research Council Grant DP130103356 (Massively parallel algorithms for Bayesian inference and decision making).  Details of the research project and the original team are [here](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-research).
+This is the original release of SABL (Sequentially Adaptive Bayesian Learning) resulting from Australian Research Council Grant DP130103356 (Massively parallel algorithms for Bayesian inference and decision making).  Details of the research project and the original team are [here](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-research).
 
 ## The aim of SABL-Projects
 The aim of this site is simple:
