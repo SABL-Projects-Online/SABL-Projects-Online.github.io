@@ -40,7 +40,7 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 
 Download | Installation |
 -------- | ------------ |
-[Link](https://github.com/SABL-Projects-Online/SABL-Projects-Online.github.io/blob/master/SimpleGeneric/Releases) | Expand the .zip contents to a new subdirectory, then from the extracted directory start Matlab and execute _run.m_  |
+[Link](https://github.com/SABL-Projects-Online/SABL-Projects-Online.github.io/blob/master/SimpleGeneric/Releases) | Expand the .zip, then from the extracted directory, start Matlab and execute _run.m_  |
 
 ### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
 [View output](/OutputVideo2/run.html)
