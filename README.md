@@ -4,7 +4,9 @@
 Prerequisites:
 * Matlab 2015a or later
 * Nvidia CUDA capable GPU
-Download the .zip archive, and extract it.  Switch to the project directory that was just extracted, then start Matlab and execute: run.m
+
+Download the .zip archive, and extract it.  
+Switch to the project directory that was just extracted, then start Matlab and execute: _run.m_
 
 #### Full installation
 [Download SABL](https://www.uts.edu.au/about/faculty-science/what-we-do/our-research-areas/sequentially-adaptive-bayesian-learning-resear-1) Installation instructions are contained in the archive .zip file.
@@ -36,7 +38,7 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 
 Download | Installation |
 -------- | ------------ |
-Link | Expand the .zip contents to a new subdirectory under the "Projects" directory of your SABL installation. |
+[Link](/SimpleGeneric/Releases) | Expand the .zip contents to a new subdirectory, then from the extracted directory start Matlab and execute _run.m_  |
 
 ### The Impact of Confirmation Bias on Willingness To Pay for Financial Advice
 [View output](/OutputVideo2/run.html)
