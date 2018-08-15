@@ -28,7 +28,7 @@ These examples supplement the [original guide](https://www.uts.edu.au/sites/defa
 - [x] Leaving a randomly selected held-out sample from the estimation
 - [x] Applying adjustments to data
 - [x] Setting up simple prior distributions of model parameters
-- [x] Calculating log-likelihood using [n-dimensional (tensor) arrays and arithmetic](https://sabl-projects-online.github.io/TensorMath/Tutorial).  See also this [presentation](https://research.unsw.edu.au/document/GPU%20Performance%20With%20Tensors%20In%20Matlab.pdf)
+- [x] Calculating log-likelihood using [n-dimensional (tensor) arrays and arithmetic](https://sabl-projects-online.github.io/TensorMath/Tutorial).  See also this [presentation](https://research.unsw.edu.au/document/GPU%20Performance%20With%20Tensors%20In%20Matlab.pdf).
 - [x] Generating summary tables and plots
 - [x] Trading off execution time in return for lower memory usage
 
